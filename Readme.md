@@ -1,6 +1,6 @@
 # FakePDB
 
-Tool for PDB generation from IDA Pro database
+Tool for PDB generation from IDA Pro databasee
 
 Supports:
 * IDA >= 7.4 
